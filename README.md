@@ -2,7 +2,7 @@
 
 This presentation is made for a competition **EnB Buzz 2021**.</span>
 
-**Case Study**</br>
+**Case Study:**</br>
 Sustainability means meeting our own needs without compromising the ability of
 future generations to meet their own needs. With non-renewable sources
 exhausting, the need to move towards a sustainable ecosystem is more now than ever
@@ -31,3 +31,5 @@ Entrepreneurial mindset approach and come up with a start-up. (There would be mu
 problems in the market, Identify one key issue that you would like to solve with your
 business plan).**</span>
 
+**Analysis:**</br>
+ PPT including Business Model Canvas(BMC) is attached. Please refer them.
