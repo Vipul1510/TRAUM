@@ -1,6 +1,7 @@
 # TRAUM
 
 This presentation is made for a competition.</span>
+
 **Question:**</br>
 Sustainability means meeting our own needs without compromising the ability of
 future generations to meet their own needs. With non-renewable sources
@@ -28,4 +29,4 @@ start-up.</br>
 **Your team has a bunch of start-up enthusiasts to ideate, interpret, and execute with an
 Entrepreneurial mindset approach and come up with a start-up. (There would be multiple
 problems in the market, Identify one key issue that you would like to solve with your
-business plan).**
+business plan).**</span>
