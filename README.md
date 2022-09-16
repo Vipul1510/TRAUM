@@ -1,6 +1,6 @@
 # TRAUM
 
-This presentation is made for a competition **EnB Buzz 2021**.</span>
+This presentation is made for a competition **EnB Buzz 2021** conducted by **E-CELL, IITB**.</span><hr>
 
 **Case Study:**</br>
 Sustainability means meeting our own needs without compromising the ability of
@@ -29,7 +29,7 @@ start-up.</br>
 **Your team has a bunch of start-up enthusiasts to ideate, interpret, and execute with an
 Entrepreneurial mindset approach and come up with a start-up. (There would be multiple
 problems in the market, Identify one key issue that you would like to solve with your
-business plan).**</span>
+business plan).**</span><hr>
 
 **Analysis:**</br>
- PPT including Business Model Canvas(BMC) is attached. Please refer them.
+ PPT including Business Model Canvas(BMC) is attached. Please refer them.<hr>
